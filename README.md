@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm Robson Alves👋
 
-<!--
-**robsonalvz/robsonalvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JAVA](https://img.shields.io/badge/Java-Expert-yellow)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+![Python](https://img.shields.io/badge/Python-Expert-orange)
 
-Here are some ideas to get you started:
+#### I'm a Full-Stack Developer working in João Pessoa, Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **META**
+- ⚙️ I use daily: `.java`, `.js`, `.ts`, `.py`, `.html`, `.css`
